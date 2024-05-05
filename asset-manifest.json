@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bank-of-flatiron/static/css/main.aae4f588.css",
-    "main.js": "/bank-of-flatiron/static/js/main.caddc7f6.js",
-    "static/js/453.d3943c81.chunk.js": "/bank-of-flatiron/static/js/453.d3943c81.chunk.js",
-    "static/media/logo.svg": "/bank-of-flatiron/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/bank-of-flatiron/index.html",
-    "main.aae4f588.css.map": "/bank-of-flatiron/static/css/main.aae4f588.css.map",
-    "main.caddc7f6.js.map": "/bank-of-flatiron/static/js/main.caddc7f6.js.map",
-    "453.d3943c81.chunk.js.map": "/bank-of-flatiron/static/js/453.d3943c81.chunk.js.map"
+    "main.css": "/Phase-2-Code-Challenge--bank-of-flatiron/static/css/main.aae4f588.css",
+    "main.js": "/Phase-2-Code-Challenge--bank-of-flatiron/static/js/main.3367ff15.js",
+    "static/js/453.d3943c81.chunk.js": "/Phase-2-Code-Challenge--bank-of-flatiron/static/js/453.d3943c81.chunk.js",
+    "static/media/logo.svg": "/Phase-2-Code-Challenge--bank-of-flatiron/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Phase-2-Code-Challenge--bank-of-flatiron/index.html",
+    "main.aae4f588.css.map": "/Phase-2-Code-Challenge--bank-of-flatiron/static/css/main.aae4f588.css.map",
+    "main.3367ff15.js.map": "/Phase-2-Code-Challenge--bank-of-flatiron/static/js/main.3367ff15.js.map",
+    "453.d3943c81.chunk.js.map": "/Phase-2-Code-Challenge--bank-of-flatiron/static/js/453.d3943c81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aae4f588.css",
-    "static/js/main.caddc7f6.js"
+    "static/js/main.3367ff15.js"
   ]
 }
